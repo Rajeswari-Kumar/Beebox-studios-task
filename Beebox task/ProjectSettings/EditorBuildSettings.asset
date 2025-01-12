@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Project folder/Project scenes/Gun scene.unity
+    guid: 3bf38bc894407044ca7e1a4e2968f4a5
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c1cae6bb15224a6499af68abaf7a3c0c, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 228e2e8f9c68ab146ae0f7dd269ae03a, type: 2}
